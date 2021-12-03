@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+table {
+  border-top: 1px solid black;
+  border-right: solid 1px #000;
+}
+table tr {
+  border: none;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+table td {
+  border-bottom: solid 1px #000;
+  border-left: solid 1px #000;
+  padding: 0.5em;
+}
